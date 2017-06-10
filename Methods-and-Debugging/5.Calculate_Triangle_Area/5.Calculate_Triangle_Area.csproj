@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD218BEA-5345-426A-A22F-A1A0E4E3F160}</ProjectGuid>
+    <ProjectGuid>{060E4FC1-0698-456F-9119-67A06CEC2037}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_5.Calculate_Triangle_Area</RootNamespace>
-    <AssemblyName>_5.Calculate_Triangle_Area</AssemblyName>
+    <AssemblyName>5.Calculate_Triangle_Area</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

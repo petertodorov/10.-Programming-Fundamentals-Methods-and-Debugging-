@@ -17,8 +17,9 @@ namespace _5.Calculate_Triangle_Area
         }
         private static double CalculateArea(double a, double b)
         {
-            double area= (a * b) / 2D;
+            double area = (a * b) / 2D;
             return area;
         }
     }
+
 }
