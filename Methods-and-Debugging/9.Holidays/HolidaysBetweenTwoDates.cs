@@ -10,8 +10,6 @@ class HolidaysBetweenTwoDates
         DateTime endDate = DateTime.ParseExact(Console.ReadLine(),
             "d.M.yyyy", CultureInfo.InvariantCulture);
         var holidaysCount = 0;
-
-
         for (DateTime date = startDate; date <= endDate; date = date.AddDays(1.0))
         {
             if (date.DayOfWeek == DayOfWeek.Saturday ||
