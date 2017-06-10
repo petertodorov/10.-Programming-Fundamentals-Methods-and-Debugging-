@@ -10,12 +10,12 @@ namespace _5.Calculate_Triangle_Area
     {
         static void Main(string[] args)
         {
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
             double result = CalculateArea(a, b);
             Console.WriteLine(result);
         }
-        private static double CalculateArea(int a, int b)
+        private static double CalculateArea(double a, double b)
         {
             double area= (a * b) / 2D;
             return area;
