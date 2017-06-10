@@ -1,0 +1,6 @@
+C:\Users\Petar\Documents\GitHub\10.-Programming-Fundamentals-Methods-and-Debugging-\4. Draw a Filled Square\4. Draw a Filled Square\bin\Debug\_4.Draw_a_Filled_Square.exe.config
+C:\Users\Petar\Documents\GitHub\10.-Programming-Fundamentals-Methods-and-Debugging-\4. Draw a Filled Square\4. Draw a Filled Square\bin\Debug\_4.Draw_a_Filled_Square.exe
+C:\Users\Petar\Documents\GitHub\10.-Programming-Fundamentals-Methods-and-Debugging-\4. Draw a Filled Square\4. Draw a Filled Square\bin\Debug\_4.Draw_a_Filled_Square.pdb
+C:\Users\Petar\Documents\GitHub\10.-Programming-Fundamentals-Methods-and-Debugging-\4. Draw a Filled Square\4. Draw a Filled Square\obj\Debug\4. Draw a Filled Square.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\GitHub\10.-Programming-Fundamentals-Methods-and-Debugging-\4. Draw a Filled Square\4. Draw a Filled Square\obj\Debug\_4.Draw_a_Filled_Square.exe
+C:\Users\Petar\Documents\GitHub\10.-Programming-Fundamentals-Methods-and-Debugging-\4. Draw a Filled Square\4. Draw a Filled Square\obj\Debug\_4.Draw_a_Filled_Square.pdb
