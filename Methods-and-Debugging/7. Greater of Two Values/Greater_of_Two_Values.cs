@@ -59,10 +59,10 @@ namespace _7.Greater_of_Two_Values
             {
                 result = b;
             }
-            //else
-            //{
-            //    result = a;
-            //}
+            else
+            {
+                result = a;
+            }
             return result;
         }
     }
