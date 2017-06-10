@@ -19,6 +19,7 @@ class PrintingTriangle
         }
         for (int row = n-1; row >0; row--)
         {
+        
             WriteCol(col, row);
         }
     }
