@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Calculate_Triangle_Area", "5.Calculate_Triangle_Area\5.Calculate_Triangle_Area.csproj", "{060E4FC1-0698-456F-9119-67A06CEC2037}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Math Power", "6. Math Power\6. Math Power.csproj", "{2F13EF31-B583-4B7F-8D1D-CC45FC1737B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{060E4FC1-0698-456F-9119-67A06CEC2037}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{060E4FC1-0698-456F-9119-67A06CEC2037}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{060E4FC1-0698-456F-9119-67A06CEC2037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F13EF31-B583-4B7F-8D1D-CC45FC1737B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F13EF31-B583-4B7F-8D1D-CC45FC1737B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F13EF31-B583-4B7F-8D1D-CC45FC1737B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F13EF31-B583-4B7F-8D1D-CC45FC1737B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
